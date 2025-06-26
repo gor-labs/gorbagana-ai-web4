@@ -1,7 +1,6 @@
 # Gorbagana AI Web4 Terminal
 
 [![Follow on X](https://img.shields.io/twitter/follow/gor_labs?style=social)](https://x.com/gorbagana_labs)
-[![MIT License](https://img.shields.io/github/license/gor-labs/gorbagana-ai-web4)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/gor-labs/gorbagana-ai-web4?style=social)](https://github.com/gor-labs/gorbagana-ai-web4/stargazers)
 [![Fork Repo](https://img.shields.io/github/forks/gor-labs/gorbagana-ai-web4?style=social)](https://github.com/gor-labs/gorbagana-ai-web4/fork)
 
