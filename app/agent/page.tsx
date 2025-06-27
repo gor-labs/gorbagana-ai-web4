@@ -22,7 +22,7 @@ export default function GorbaganaAgentPage() {
   const [inputMessage, setInputMessage] = useState("")
   const [isLoading, setIsLoading] = useState(false)
   const [typingText, setTypingText] = useState("")
-  const [apiKey, setApiKey] = useState("30GDTxhLccSfozksjyU53ZUYaz475U0w")
+  const [apiKey, setApiKey] = useState("Api_key")
   const messagesEndRef = useRef<HTMLDivElement>(null)
   const [sidebarOpen, setSidebarOpen] = useState(false)
 
