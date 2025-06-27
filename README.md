@@ -11,7 +11,7 @@
 ## 🌐 What is Gorbagana?
 
 **Gorbagana** is a decentralized, AI-powered **Web4 Terminal** designed to:
-- Blend **modular AI agents** with Web3 functionality.
+- Blend **modular AI agents** with Web4 functionality.
 - Integrate Solana/EVM wallets like **Phantom**, **Solflare**, **MetaMask**.
 - Act as a universal raider console and on-chain assistant.
 - Run **trash-powered** simulations, oracles, and more.
