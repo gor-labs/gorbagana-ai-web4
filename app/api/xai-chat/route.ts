@@ -5,7 +5,7 @@ export async function POST(request: NextRequest) {
     const { messages, systemPrompt } = await request.json()
 
     // Use the same API key as Mistral
-    const apiKey = "30GDTxhLccSfozksjyU53ZUYaz475U0w"
+    const apiKey = "API_key"
 
     if (!apiKey) {
       return NextResponse.json({ error: "API key is required" }, { status: 400 })
